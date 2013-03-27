@@ -1,5 +1,6 @@
 I'm going to Rails + the D3 Javascript Library at General Assembly on April 17th.
-
+Please note that I also competed the bonus 'hello world'; you access it by going to
+localhost:3000/home in your browser.
 
 
 == Welcome to Rails
