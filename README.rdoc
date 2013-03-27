@@ -1,3 +1,7 @@
+I'm going to Rails + the D3 Javascript Library at General Assembly on April 17th.
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
